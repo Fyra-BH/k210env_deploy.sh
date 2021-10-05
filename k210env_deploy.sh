@@ -1,6 +1,6 @@
-sudo apt update
-sudo apt upgrade
-sudo apt install make cmake wget -y
+apt update
+apt upgrade
+apt install make cmake wget -y
 cd ~
 mkdir -p kendryte/tarballs
 cd kendryte/tarballs
